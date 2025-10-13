@@ -1,0 +1,12 @@
+/* Add CSS Styling */
+.same{
+    color: white;
+    background-color: black;
+}
+.different{
+    background-color: yellow;
+}
+.same,.different{
+    font-size: 28px;
+    font-family: Arial, 'Times New Roman', sans-serif;
+}
