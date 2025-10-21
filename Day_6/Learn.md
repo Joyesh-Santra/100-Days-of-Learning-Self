@@ -14,4 +14,4 @@
 ---
 The Normal flow of button are inline as they are next to each other
 
-The Normal flow of paragraph is block as they are in another line.
+The Normal flow of paragraph is block as they are in another line.x
