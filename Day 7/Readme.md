@@ -9,4 +9,4 @@
 > I can fix it by daily not sitting in home and going out atleast 1 hr and talk with people that is my main task .
 >
 > At last i am also starting datastructures and college study from tomorrow and going out from tomorrow itself not sitting in home fulltime idle that is causing all the problem itself.
-
+--
